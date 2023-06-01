@@ -1,0 +1,43 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+                /*banner*/
+
+.banner{
+    width: 100%;
+    height: 600px;
+    background-image: url(../PROJETO_PAGINA_AGENCIA/img/capa2.jpg);
+    background-position:center ;
+    position: relative;
+}
+
+.box-container{
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    position: absolute;
+    right: 100px;
+    bottom: 250px;
+}
+
+.box-backgrond{
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    position: relative;
+}
+
+.box-banner-title{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    color: #FFF;
+    padding-top: 65px;
+}
+
+.box-banner-title h1{
+    font-size: 32px;
+    margin-bottom: 25px;
+}
